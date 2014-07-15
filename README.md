@@ -5,7 +5,7 @@ nginxの設定。ModSecurityを入れてない環境ではその行をエスケ�
 
 * 1CPU3CORE
 * MEM2GB
-* C10k　bench passed
+* C10k bench passed
 * Wordpress
 * phpMyAdmin
 * Zabbix
