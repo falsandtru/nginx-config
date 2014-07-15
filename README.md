@@ -76,6 +76,10 @@ require_once(ABSPATH . 'wp-settings.php');
 
 ## ChangeLog
 
+### 0.0.2
+
+* Wordpressの設定を修正
+
 ### 0.0.1
 
 * 公開
