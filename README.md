@@ -5,7 +5,7 @@ nginxの設定。ModSecurityを入れてない環境ではその行をエスケ�
 
 * 1CPU3CORE
 * MEM2GB
-* C10k　bench passed
+* C10k bench passed
 * Wordpress
 * phpMyAdmin
 * Zabbix
@@ -75,6 +75,10 @@ require_once(ABSPATH . 'wp-settings.php');
 ```
 
 ## ChangeLog
+
+### 0.0.2
+
+* Wordpressの設定を修正
 
 ### 0.0.1
 
